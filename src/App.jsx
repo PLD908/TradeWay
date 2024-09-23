@@ -8,14 +8,14 @@ const App = () => {
       <header className="bg-black shadow-md">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <img src="/assets/images/logo.png" className='h-20' alt="tradeway logo" />
-          {/* <nav>
+          <nav>
             <ul className="flex space-x-4">
               <li><a href="#features" className="text-gray-600 hover:text-gray-800">Features</a></li>
               <li><a href="#portfolio" className="text-gray-600 hover:text-gray-800">Portfolio</a></li>
               <li><a href="#support" className="text-gray-600 hover:text-gray-800">Support</a></li>
               <li><a href="#community" className="text-gray-600 hover:text-gray-800">Community</a></li>
             </ul>
-          </nav> */}
+          </nav>
         </div>
       </header>
 
